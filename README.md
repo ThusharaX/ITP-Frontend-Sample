@@ -19,6 +19,11 @@ Run the application:
 yarn start
 ```
 
+## .env file sample
+```
+REACT_APP_BACKEND_URL = <backend url> (e.g. http://localhost:5000/notes/)
+```
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
